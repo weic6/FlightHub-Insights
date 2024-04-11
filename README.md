@@ -1,10 +1,8 @@
 # FlightHub Insight
 
-This is a project adapted from a CS 411 Course project at UIUC.
+This is a project adapted from a CS 411 [Course project](https://github.com/cs411-alawini/fa23-cs411-team067-Sparkling) at UIUC.
 
-Intro:
-
-Data: 2015 US Transporation. Download from kaggle.
+Data: [2015 US Transporation from Kaggle](https://www.kaggle.com/datasets/usdot/flight-delays.)
 
 # Todo
 

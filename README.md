@@ -8,7 +8,7 @@ Data: 2015 US Transporation. Download from kaggle.
 
 # Todo
 
-- [ ] add Redis as a cache
+- [x] add Redis as a cache
 - [ ] Re-configure the front end using React
 - [ ] Add ORM to prevent SQL injection
 - [ ] Lump private info in .env file
